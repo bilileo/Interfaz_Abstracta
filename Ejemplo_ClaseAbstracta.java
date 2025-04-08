@@ -17,7 +17,7 @@ class Dog extends Animal {
    }
 } //Aquí se crea una clase a partir de la clase abstracta, y se completa los métodos no definido.
 
-public class Main{
+public class Ejemplo_ClaseAbstracta{
   public static void main(String args[]){
     Pig p1 = new Pig();
     Dog a = new Dog();
